@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UPDServer", "UPDServer\UPDServer.csproj", "{3CA2BDBE-ABDA-43B5-84C5-BEBC017B062B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPServer", "UPDServer\UDPServer.csproj", "{3CA2BDBE-ABDA-43B5-84C5-BEBC017B062B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
